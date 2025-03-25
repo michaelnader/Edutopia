@@ -13,7 +13,7 @@
 ![Screenshot 2](https://imgur.com/2FqVUoK.png)  
 ![Screenshot 3](https://imgur.com/LkxifrF.png)  
 ![Screenshot 4](https://imgur.com/B2PmWZl.png)  
-![Uploading edited-ezgif.com-video-to-gif-converter.gif…]()
+![Demo](edited-ezgif.com-video-to-gif-converter.gif)
 
 
 
