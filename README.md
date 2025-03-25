@@ -12,7 +12,6 @@
 ![Project Screenshot](https://i.imgur.com/LSSCv1C.png)
 ![Screenshot 2](https://imgur.com/2FqVUoK.png)  
 ![Screenshot 3](https://imgur.com/LkxifrF.png)  
-![Screenshot 4](https://imgur.com/B2PmWZl.png)  
 ![Demo](edited-ezgif.com-video-to-gif-converter.gif)
 
 
