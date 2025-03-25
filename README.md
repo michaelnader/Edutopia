@@ -20,13 +20,20 @@
 ## 🚀 Installation & Setup  
 
 Follow these steps to get the project running locally:  
- 📥 1. Clone the Repository  
-```bash
+ 📥 1. Clone the Repository 
+ ```bash
 git clone https://github.com/yourusername/repository-name.git
+```
 2. Navigate into the Project Directory
+```bash
 cd repository-name
+```
 3. Install Dependencies
+```bash
 npm install
-4. Start the Development Server
+```
+5. Start the Development Server
+```bash
 npm run dev
+```
 🔗 Now open http://localhost:3000/ in your browser! 🎉
