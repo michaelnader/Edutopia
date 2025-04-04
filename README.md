@@ -21,18 +21,19 @@
 
 Follow these steps to get the project running locally:  
 📥 1. Clone the Repository 
-bash
+```bash
 git clone https://github.com/michaelnader/Edutopia
+```
 2. Navigate into the Project Directory
-bash
+```bash
 cd repository-name
-
+```
 3. Install Dependencies
-bash
+```bash
 npm install
-
+```
 5. Start the Development Server
-bash
+```bash
 npm run dev
-
+```
 🔗 Now open http://localhost:3000/ in your browser! 🎉
