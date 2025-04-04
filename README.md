@@ -22,8 +22,7 @@
 Follow these steps to get the project running locally:  
  📥 1. Clone the Repository 
  bash
-git clone https://github.com/yourusername/repository-name.git
-
+git clone https://github.com/michaelnader/Edutopia
 2. Navigate into the Project Directory
 bash
 cd repository-name
