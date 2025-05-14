@@ -13,8 +13,7 @@
 ![Screenshot 2](https://imgur.com/2FqVUoK.png)  
 ![Screenshot 3](https://imgur.com/LkxifrF.png)  
 ![Demo](edited-ezgif.com-video-to-gif-converter.gif)
-![Demo](![Image](https://github.com/user-attachments/assets/d9a32135-3118-422e-bbd2-a9f33d9b7c5f))
-![Demo](2 - Made with Clipchamp.mp4)
+![Demo 2](![Image](https://github.com/user-attachments/assets/d9a32135-3118-422e-bbd2-a9f33d9b7c5f))
 
 
 
