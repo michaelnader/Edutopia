@@ -13,6 +13,9 @@
 ![Screenshot 2](https://imgur.com/2FqVUoK.png)  
 ![Screenshot 3](https://imgur.com/LkxifrF.png)  
 ![Demo](edited-ezgif.com-video-to-gif-converter.gif)
+![Demo](1-Madewithclipchamp (1).gif)
+![Demo](2 - Made with Clipchamp.mp4)
+
 
 
 
