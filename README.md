@@ -14,8 +14,7 @@
 ![Screenshot 3](https://imgur.com/LkxifrF.png)  
 ![Demo](edited-ezgif.com-video-to-gif-converter.gif)
 
-## 🎥 Demo
-![2 - Made with Clipchamp](https://github.com/user-attachments/assets/ca05872f-3df1-405d-8e6b-0127072848ba)
+
 
 
 
